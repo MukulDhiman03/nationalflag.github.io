@@ -130,3 +130,10 @@ button {
   text-align: center;
   font-size: 1.5rem;
 }
+
+@media only screen and (max-width: 1050px) {
+  button {
+    font-size: medium;
+    width: 100%;
+  }
+}
